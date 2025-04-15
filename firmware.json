@@ -4,5 +4,11 @@
     "version": "8.30.00.51_2.0.0+0",
     "hwType": "CC2652R7",
     "imageType": "bim"
+  },
+  {
+    "fileName": "Zero_My_Hero_oad.bin",
+    "version": "9.0_1",
+    "hwType": "CC2652R7",
+    "imageType": "bim"
   }
 ]
