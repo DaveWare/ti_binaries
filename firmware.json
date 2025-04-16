@@ -10,5 +10,11 @@
     "version": "9.0_1",
     "hwType": "CC2652R7",
     "imageType": "bim"
+  },
+  {
+    "fileName": "AymEndpoint_AYM_Debug_oad.bin",
+    "version": "1.0.1",
+    "hwType": "CC2652R7",
+    "imageType": "bim"
   }
 ]
